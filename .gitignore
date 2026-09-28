@@ -1,0 +1,4 @@
+*.s3db
+__pycache__/
+*.pyc
+.idea/
